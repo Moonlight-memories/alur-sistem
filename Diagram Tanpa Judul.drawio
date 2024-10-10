@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Halaman-1" id="yYDYP8oayEeTU_3yBGuc">
-    <mxGraphModel dx="278" dy="2973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1798" dy="3846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,45 @@
         </mxCell>
         <mxCell id="bFwUKNkLyuDPOkzhXgHu-14" value="email&lt;div&gt;password&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bFwUKNkLyuDPOkzhXgHu-29" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="-450" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bFwUKNkLyuDPOkzhXgHu-30" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1399.79" y="-540" as="sourcePoint" />
+            <mxPoint x="1399.79" y="-450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFwUKNkLyuDPOkzhXgHu-32" value="Homepage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="-590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bFwUKNkLyuDPOkzhXgHu-35" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="-320" as="sourcePoint" />
+            <mxPoint x="1410" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFwUKNkLyuDPOkzhXgHu-37" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1529.7800000000002" y="-380" as="sourcePoint" />
+            <mxPoint x="1630" y="-380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFwUKNkLyuDPOkzhXgHu-38" value="Customer page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="-465" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bFwUKNkLyuDPOkzhXgHu-39" value="Paketan page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c0c0c0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2010" y="-465" width="240" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="bFwUKNkLyuDPOkzhXgHu-40" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;" edge="1" parent="1" target="bFwUKNkLyuDPOkzhXgHu-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="-385.29999999999995" as="sourcePoint" />
+            <mxPoint x="1970.2200000000003" y="-385.29999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFwUKNkLyuDPOkzhXgHu-41" value="add/updateproduct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="-370" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
