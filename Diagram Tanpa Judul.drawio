@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Halaman-1" id="yYDYP8oayEeTU_3yBGuc">
-    <mxGraphModel dx="402" dy="2912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="606" dy="3008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,17 +88,20 @@
         <mxCell id="bFwUKNkLyuDPOkzhXgHu-41" value="add/updateproduct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1880" y="-370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UzXylfOwwAxVbVR5gqub-2" value="Homepage&lt;div&gt;&lt;br&gt;&lt;div&gt;notification&lt;/div&gt;&lt;div&gt;hero(slider)&lt;/div&gt;&lt;div&gt;testimoni&lt;/div&gt;&lt;div&gt;faq&lt;/div&gt;&lt;/div&gt;&lt;div&gt;galery&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UzXylfOwwAxVbVR5gqub-2" value="Homepage&lt;div&gt;&lt;br&gt;&lt;div&gt;notification&lt;/div&gt;&lt;div&gt;hero(slider)&lt;/div&gt;&lt;div&gt;testimoni&lt;/div&gt;&lt;div&gt;faq&lt;/div&gt;&lt;/div&gt;&lt;div&gt;galery&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="-1700" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="UzXylfOwwAxVbVR5gqub-3" value="Paketan page&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;serchbar&lt;/div&gt;&lt;div&gt;list paketan&lt;/div&gt;&lt;div&gt;harga&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UzXylfOwwAxVbVR5gqub-3" value="Paketan page&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;serchbar&lt;/div&gt;&lt;div&gt;list paketan&lt;/div&gt;&lt;div&gt;harga&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="-1700" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="UzXylfOwwAxVbVR5gqub-4" value="checout&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;form transaksi&lt;/div&gt;&lt;div&gt;kode promo&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UzXylfOwwAxVbVR5gqub-4" value="checout&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;form transaksi&lt;/div&gt;&lt;div&gt;kode promo&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="-1700" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="UzXylfOwwAxVbVR5gqub-5" value="profile page&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data profile&lt;/div&gt;&lt;div&gt;transaction history&lt;/div&gt;&lt;div&gt;settings&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UzXylfOwwAxVbVR5gqub-5" value="profile page&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data profile&lt;/div&gt;&lt;div&gt;transaction history&lt;/div&gt;&lt;div&gt;settings&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1680" y="-1700" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vZiDzOy15KPpa_IEHd9m-1" value="Live chat" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="-1700" width="120" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
